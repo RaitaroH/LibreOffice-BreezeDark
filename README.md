@@ -37,8 +37,10 @@ Alternatively you can do it manually. Here are some screenshots to help you.
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Calc.png)
 Please be careful that cutting cells can leave white spaces in their place. It is best to try and fill every cell with the background color.  I suggest to go to: Styles and formating > Cell Styles > Default > Modify. There you can do the needed changes. 
 Also keep in mind that you will have to manually change charts.
+
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Impress.png)
 Export in pdf keeps the background and colors:
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Impress-export.png)
-The export in pdf changes background to white and text to black AS LONG AS it is AUTOMATIC. Any further changes to the colors will be exported.
+
+The export from WRITER in pdf changes the background to white and text to black AS LONG AS it is AUTOMATIC. Any further changes to the colors will be exported.
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Writer-export.png)
