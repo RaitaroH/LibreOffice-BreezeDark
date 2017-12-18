@@ -20,9 +20,9 @@ cp LibreOffice-BreezeDark/standard.soc ~/.config/libreoffice/4/user/config/stand
 ```
 
 # Color scheme
+### Instalation:
 I do not know if this works actually.
 I do advice to change this stuff manually, but here is the code I got:
-### Instalation:
 ```
 git clone https://github.com/RaitaroH/LibreOffice-BreezeDark.git
 cp ~/.config/libreoffice/4/user/registrymodifications.xcu ~/.config/libreoffice/4/user/registrymodifications.xcu.back
