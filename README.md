@@ -1,5 +1,7 @@
 # LibreOffice-BreezeDark
 
+![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Writer.png)
+
 # Icons
 The icons are the breeze icons for LibreOffice from ![here](https://github.com/DarkknightAK/breeze-icon-theme/tree/master/LibreOffice_Breeze).
 ### Instalation:
@@ -38,6 +40,5 @@ Also keep in mind that you will have to manually change charts.
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Impress.png)
 Export in pdf keeps the background and colors:
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Impress-export.png)
-![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Writer.png)
 The export in pdf changes background to white and text to black AS LONG AS it is AUTOMATIC. Any further changes to the colors will be exported.
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Writer-export.png)
