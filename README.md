@@ -11,7 +11,23 @@ sudo cp LibreOffice-BreezeDark/images_breeze_dark.zip /usr/lib/libreoffice/share
 ```
 
 # Color palette
-I provide the breeze dark colors, deepdark colors and even some extra ones. 
+I provide the breeze dark colors, deepdark colors and even some extra ones.
+The colors are the following:
++ main-color: #3DAEE9;
++ main-background: #232629;
++ second-background: #2a2e32;
++ hover-background: #31363b;
++ main-text: #eff0f1;
++ dimer-text: #bdc3c7;
+
+Other colors:
++ red: #DA4453;
++ orange: #F67400;
++ yellow: #FDBC4B;
++ green: #27AE60;
++ pink: #FE9EAD;
++ purple: #60459F;
+
 ### Instalation:
 ```
 git clone https://github.com/RaitaroH/LibreOffice-BreezeDark.git
