@@ -56,7 +56,7 @@ Also keep in mind that you will have to manually change charts.
 
 Make sure you change the background color in impress. Otherwise it will change to white.
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Impress.png)
-Export in pdf keeps the background and colors:
+You can also export in pdf too:
 ![alt tag](https://raw.githubusercontent.com/RaitaroH/LibreOffice-BreezeDark/master/Images/Impress-export.png)
 
 The export from WRITER in pdf changes the background to white and text to black AS LONG AS it is AUTOMATIC. Any further changes to the colors will be exported.
